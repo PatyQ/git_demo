@@ -1,5 +1,9 @@
 public class firstgit {
-    String s = "第一个git---master少的情况将多的domo合并过来+从" +
-            "主分支创建了分支3 并且与主分支冲突";
-    String s2 = "我删除了主分支中的s2信息并重新提交-demo3分支";
+    String s = "第一个git";
+
+    String s1 = "在demo1中修改并提交";//提交到仓库中后不会同步过去
+
+    String s2 = "将demo2中的分支合并到master中";
+
+    String s3 = "在demo中完成代码的添加和更改";
 }
